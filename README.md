@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning **Mastering The Java Fundamental And After Than I will learn sql**
 
 - 👨‍💻 All of my projects are available at [GitHub On the future Or MY Linkedin](GitHub On the future Or MY Linkedin)
-
-- 📝 I regularly write articles on [Linkedin Or Github](Linkedin Or Github)
-
+  
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **gurengjuan@gmail.com**
