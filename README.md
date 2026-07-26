@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mastering The Java Fundamental And After Than I will learn sql**
 
-- 👨‍💻 All of my projects are available at [GitHub On the future Or MY Linkedin](GitHub On the future Or MY Linkedin)
+- 👨‍💻 All of my projects are available at GitHub On the future Or MY Linkedin
   
 - 💬 Ask me about **Anything**
 
