@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Gureng</h1>
 <h3 align="center">A 2nd Year Aspiring Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **On Our Multi-Purpose CLinic Queuing System**
+- 🔭 I’m currently working on **Student Enrollment System**
 
-- 🌱 I’m currently learning **Mastering The Java Fundamental And After Than I will learn sql**
+- 🌱 I’m currently **Mastering Java and getting Familiar With Android Studio**
 
 - 👨‍💻 All of my projects are available at GitHub On the future Or MY Linkedin
   
